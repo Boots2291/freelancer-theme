@@ -25,6 +25,12 @@ a.active {
     color: #{{ site.color.primary }};
 }
 
+#profile {
+  height: 25%;
+  width: 25%;
+  border-radius: 100%;
+}
+
 h1,
 h2,
 h3,
